@@ -1,0 +1,7 @@
+{
+    "git.enableSmartCommit": false,
+    "git.enabled": false,
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true,
+    "git.ignoreLimitWarning": true
+}
