@@ -1,7 +1,8 @@
-import './App.css';
+import Body from "./components/Body";
 
 function App() {
-  return <div className='text-3xl font-mono'>Nmaste james veryone let's build Netflix Gpt</div>
+  return <Body/>;
+  
 }
 
 
