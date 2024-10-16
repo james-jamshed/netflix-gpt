@@ -3,8 +3,20 @@
 -Create React App
    -Configured TailwinfCSS
    -Header
+   -Routing of App
    -Login Form
    -Sign up Form
+   -Form Validation
+   -useRef Hook
+   -Firebase setup
+   -Deploying our app to production
+   -Create SigUp user Account
+   -Implement Sign In user Api
+   -Created Redox Store with userSlice 
+   -implemented Sign Out
+   -update profile api
+   -fetch From TMDB Movies
+    
 
 # features
 - Login /Sign up
