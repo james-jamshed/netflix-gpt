@@ -16,6 +16,8 @@
    -implemented Sign Out
    -update profile api
    -fetch From TMDB Movies
+   -BugFix:- Sign up user displayName and profile update
+   -BugFix:+ if the user is not loggged in rediect /browser to Login page and vice-versa
     
 
 # features
