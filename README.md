@@ -17,7 +17,13 @@
    -update profile api
    -fetch From TMDB Movies
    -BugFix:- Sign up user displayName and profile update
-   -BugFix:+ if the user is not loggged in rediect /browser to Login page and vice-versa
+   -BugFix:- if the user is not loggged in rediect /browser to Login page and vice-versa
+   -Unscribe to the onAuthSatteChange callback
+   -Add harcoded values to constants file
+   -Register TMDB API & create an app & get acss token
+   -Get Data fron TMDB now playing movies list Api
+   -Got data from
+
     
 
 # features
