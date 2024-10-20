@@ -21,8 +21,14 @@
    -Unscribe to the onAuthSatteChange callback
    -Add harcoded values to constants file
    -Register TMDB API & create an app & get acss token
-   -Get Data fron TMDB now playing movies list Api
-   -Got data from
+   -Get Data fron TMDB now playing movies list 
+   -Custome Hook for NOw Playing movies
+   -Update Store with Movies Data
+   -planning for MainConatainer and SecondaryContainer
+   -Fetch Data For Trailer Video
+   -Updata Store With Trailer Video Data
+   -Embeded the Youtube Video and Make it Autoplay & Mute
+   -Tailwinf clasees to make Main conatiner awesome
 
     
 
