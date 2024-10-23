@@ -5,7 +5,7 @@ const MovieList = ({title,movies}) => {
     console.log(movies);
       // Check if movies is not null, undefined, and has at least one element
   if (!movies || movies.length === 0) {
-    return <p>No movies available</p>; // Render this if movies is null or empty
+    return ; // Render this if movies is null or empty
   }
     
     

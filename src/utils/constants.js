@@ -8,8 +8,8 @@ export const API_OPTIONS = {
     headers: {
       accept: 'application/json',
       Authorization: 
-      'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjZjUyMTY3NjVkOGE2Y2VhZTA1MTMzZDZmMWUxOTc2MCIsIm5iZiI6MTcyOTEwNzc3NS4wODU4MTYsInN1YiI6IjY3MTAxNDNkNmJmZmExNGNmNDEwZjMwZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.yNWPKPlRTlP0N1wlBX0OV4QUWbcoHEwMNrDp8Bsu-TY'
-    } 
+      'Bearer' + process.env.REACT_APP_TMDB_KEY,
+    } ,
   };
 
   export const  IMG_CDN_URL =
@@ -24,3 +24,6 @@ export const API_OPTIONS = {
     {identifier:"spanish",name:"spanish"},
     
   ];
+
+ export const groqApiKey = process.env.REACT_APP_GROQ_API_KEY;
+
