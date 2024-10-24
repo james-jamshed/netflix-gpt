@@ -1,4 +1,4 @@
-# Netflix GPT
+## Netflix GPT:
 
 -Create React App
    -Configured TailwinfCSS
@@ -38,11 +38,19 @@
    -GPT Search Feactures
    -GPT Search Bar
    -(Feature)Multi-Language Feature in our App
-   -Integrate Gpt Api
+   -Get Open AI Api Key
+   -Gpt Search API Call
+   -Fetched gptMoviesSuggestion from TMDB
+   -Create Gpt Slice Added data
+   -Reuse Movie Nmae Component to Make Movie SuggestionContainer
+   -Memorization
+   -Added .env file
+   -Adding .env file to git-ignore
+   Made Our Site Responsive
 
     
 
-# features
+## 📔 Table of Contents
 - Login /Sign up
        - Sign IN /Sign UP Form
        - redirect to Browser page
