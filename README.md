@@ -21,21 +21,6 @@
 ![Screenshot 2024-10-25 124120](https://github.com/user-attachments/assets/9d4f49c4-178d-4c4c-ae32-5404778382a5)
 ![Screenshot 2024-10-25 124217](https://github.com/user-attachments/assets/1b4207fc-b104-4abf-ad73-d31e22a9b00f)
 
-
-
-
-
-<div align="center"> <a href="https://movies-gpt.netlify.app/"><img src="![image](https://github.com/user-attachments/assets/9d8e5dce-5de1-446f-9901-0350b4b52b2e)
-" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://movies-gpt.netlify.app/"><img src="v![image](https://github.com/user-attachments/assets/0afb3058-ef57-46df-9f85-f9538122b2fe)
-" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://movies-gpt.netlify.app/"><img src="![image](https://github.com/user-attachments/assets/7bd692bd-71ad-400a-b23a-fb4505cfa3b0)
-" alt='image' width='800'/></a> </div>
-<div >
-<div align="center"> <a href="https://movies-gpt.netlify.app/"><img src="![image](https://github.com/user-attachments/assets/1115816c-5ed8-4278-a126-82c795706476)
-
-" alt='image' width='800'/></a> </div>
-
 ### :dart: Netflix GPT
 
 Create React App
