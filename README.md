@@ -1,67 +1,101 @@
-## Netflix GPT:
+![Screenshot 2024-10-25 041010](https://github.com/user-attachments/assets/d634c4bb-90e0-4913-8e45-e1c916f38340)
 
--Create React App
-   -Configured TailwinfCSS
-   -Header
-   -Routing of App
-   -Login Form
-   -Sign up Form
-   -Form Validation
-   -useRef Hook
-   -Firebase setup
-   -Deploying our app to production
-   -Create SigUp user Account
-   -Implement Sign In user Api
-   -Created Redox Store with userSlice 
-   -implemented Sign Out
-   -update profile api
-   -fetch From TMDB Movies
-   -BugFix:- Sign up user displayName and profile update
-   -BugFix:- if the user is not loggged in rediect /browser to Login page and vice-versa
-   -Unscribe to the onAuthSatteChange callback
-   -Add harcoded values to constants file
-   -Register TMDB API & create an app & get acss token
-   -Get Data fron TMDB now playing movies list 
-   -Custome Hook for NOw Playing movies
-   -Update Store with Movies Data
-   -planning for MainConatainer and SecondaryContainer
-   -Fetch Data For Trailer Video
-   -Updata Store With Trailer Video Data
-   -Embeded the Youtube Video and Make it Autoplay & Mute
-   -Tailwinf clasees to make Main conatiner awesome
-   -Build Secondary Component
-   -Build Movie list
-   -Build Movie Card
-   -TMDB Image CDN URL
-   -MAKE the Browser Page amazing with Tailwind CSS
-   -UsePopularmovie && TopRated && -UpcomingMovie HOOK
-   -GPT Search Feactures
-   -GPT Search Bar
-   -(Feature)Multi-Language Feature in our App
-   -Get Open AI Api Key
-   -Gpt Search API Call
-   -Fetched gptMoviesSuggestion from TMDB
-   -Create Gpt Slice Added data
-   -Reuse Movie Nmae Component to Make Movie SuggestionContainer
-   -Memorization
-   -Added .env file
-   -Adding .env file to git-ignore
-   Made Our Site Responsive
+<div align='center'>
 
-    
 
-## 📔 Table of Contents
-- Login /Sign up
-       - Sign IN /Sign UP Form
-       - redirect to Browser page
-- Browser (after authentication)
-   - Header
-   - Main Movie
-       - Tailer in Backgroung
-       - Title & Description
-       - Movies Suggestions
-         - MOvies Lists
+<h1>NETFLIX- GPT</h1>
+<p>The NETFLIX-GPT App is an AI-powered platform that enhances the Netflix experience by providing personalized content recommendations using GPT-3.5. Designed for Netflix enthusiasts, it offers effortless content exploration, natural language interactions, and deeper insights into favorite shows and movies, making streaming more engaging and tailored for both new and seasoned users..</p>
 
-- NetflixGpt
-   - serach Bar
-   - Movie Suggestions
+
+# :notebook_with_decorative_cover: Table of Contents
+
+- [About the Project](#star2-about-the-project)
+
+- [Contact](#handshake-contact)
+
+## :star2: About the Project
+
+### :camera: Screenshots
+![Screenshot 2024-10-25 124305](https://github.com/user-attachments/assets/ff9fd277-4ab3-4b67-83e6-7890b4e79f4d)
+![Screenshot 2024-10-25 123958](https://github.com/user-attachments/assets/7e336a61-2810-4ddb-8280-24c3f4f43ced)
+![Screenshot 2024-10-25 124120](https://github.com/user-attachments/assets/9d4f49c4-178d-4c4c-ae32-5404778382a5)
+![Screenshot 2024-10-25 124217](https://github.com/user-attachments/assets/1b4207fc-b104-4abf-ad73-d31e22a9b00f)
+
+### :dart: Netflix GPT
+
+Create React App
+Configured TailwindCSS
+Header
+Routing of App
+Login Form
+Sign up Form
+Form Validation
+useRef Hook
+Firebase Setup
+Deploying our app to production
+Create SignUp User Account
+Implement Sign In user Api
+Created Redux Store with userSlice
+Implemented Sign out
+Update Profile
+BugFix: Sign up user displayName and profile picture update
+BugFix: if the user is not logged in Redirect /browse to Login Page and vice-versa
+Unsubscibed to the onAuthStateChanged callback
+Add hardcoded values to the constants file
+Regiter TMDB API & create an app & get access token
+Get Data from TMDB now playing movies list API
+Custom Hook for Now Playing Movies
+Create movieSlice
+Update Store with movies Data
+Planning for MainContauiner & secondary container
+Fetch Data for Trailer Video
+Update Store with Trailer Video Data
+Embedded the Yotube video and make it autoplay and mute
+Tailwind Classes to make Main Container look awesome
+Build Secondary Component
+Build Movie List
+build Movie Card
+TMDB Image CDN URL
+Made the Browsre page amazing with Tailwind CSS
+usePopularMovies Custom hook
+GPT Search Page
+GPT Search Bar
+(BONUS) Multi-language Feature in our App)
+Get Open AI Api Key
+Gpt Search API Call
+fetched gptMoviesSuggestions from TMDB
+created gptSlice added data
+Resused Movie List component to make movie suggestion container
+Memoization
+Added .env file
+Adding .env file to gitignore
+Made our Site Responsive
+
+
+🎯 Features
+GPT-Search
+Authentication
+Internationalisation
+TMDB API
+Memoisation
+
+### :key: Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+
+
+
+
+
+Contributions are always welcome!
+
+see `contributing.md` for ways to get started
+
+d)
+
+## :handshake: Contact
+
+
+
+Project Link: 
