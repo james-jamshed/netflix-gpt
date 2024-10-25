@@ -1,4 +1,4 @@
-import Header from './Header';
+import Header from './header';
 import useNowPlayingMovies from '../hooks/useNowPlayingMovies';
 import MainContainer from './MainContainer';
 import SecondaryContainer from './SecondaryContainer';
