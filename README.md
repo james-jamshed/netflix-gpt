@@ -16,6 +16,14 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
+![Screenshot 2024-10-25 124305](https://github.com/user-attachments/assets/ff9fd277-4ab3-4b67-83e6-7890b4e79f4d)
+![Screenshot 2024-10-25 123958](https://github.com/user-attachments/assets/7e336a61-2810-4ddb-8280-24c3f4f43ced)
+![Screenshot 2024-10-25 124120](https://github.com/user-attachments/assets/9d4f49c4-178d-4c4c-ae32-5404778382a5)
+![Screenshot 2024-10-25 124217](https://github.com/user-attachments/assets/1b4207fc-b104-4abf-ad73-d31e22a9b00f)
+
+
+
+
 
 <div align="center"> <a href="https://movies-gpt.netlify.app/"><img src="![image](https://github.com/user-attachments/assets/9d8e5dce-5de1-446f-9901-0350b4b52b2e)
 " alt='image' width='800'/></a> </div>
@@ -90,70 +98,19 @@ Memoisation
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`create-react-app`
 
-`VITE_TMDB_KEY`
 
-`VITE_FIRE_BASE_API_KEY`
 
-## :toolbox: Getting Started
 
-### :bangbang: Prerequisites
-
-- Install Node Js in your computer<a href="https://nodejs.org/en"> Here</a>
-- Setup Firebase <a href="https://firebase.google.com/"> Here</a>
-
-- Get you OpenAI Platform API key<a href="https://platform.openai.com/"> Here</a>
-- Get you TMDB API key<a href="https://developer.themoviedb.org/reference/intro/getting-started"> Here</a>
-
-### :running: Run Locally
-
-Clone the project
-
-```bash
-https://github.com/gyandeeparyan/netflix-gpt
-```
-
-Go to the project directory
-
-```bash
-cd netflix-gpt
-```
-
-Install dependencies
-
-```bash
-npm i
-```
-
-Start the server
-
-```bash
-npm run dev
-```
-
-### :triangular_flag_on_post: Deployment
-
-To deploy this project run
-
-```bash
-firebase deploy
-```
-
-## :wave: Contributing
-
-<a href="https://github.com/gyandeeparyan/netflix-gpt/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
 
 Contributions are always welcome!
 
 see `contributing.md` for ways to get started
 
-### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/gyandeeparyan/netflix-gpt/blob/master/CODE_OF_CONDUCT.md)
+d)
 
 ## :handshake: Contact
 
-Gyandeep Aryan - - gyandeeparyan.dev@gmail.com
 
-Project Link: [https://github.com/gyandeeparyan/netflix-gpt](https://github.com/gyandeeparyan/netflix-gpt)
+
+Project Link: 
