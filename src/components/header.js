@@ -14,7 +14,7 @@ import {changeLanguage} from "../utils/configSlice";
 
 
 
-const header = () => {
+const Header = () => {
   const dispatch = useDispatch();
   const navigate = useNavigate();
   const user = useSelector ((store) => store.user);
@@ -111,4 +111,4 @@ const header = () => {
   );
 };
 
-export default header;
+export default Header;
