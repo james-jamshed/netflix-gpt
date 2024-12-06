@@ -4,7 +4,7 @@
 
 
 <h1>NETFLIX_GPT</h1>
-<p>The NETFLIX-GPT App is an AI-powered platform that enhances the Netflix experience by providing personalized content recommendations using GPT-3.5. Designed for Netflix enthusiasts, it offers effortless content exploration, natural language interactions, and deeper insights into favorite shows and movies, making streaming more engaging and tailored for both new and seasoned users..</p>
+<p>The NETFLIX-GPT App is an AI-powered platform that enhances the Netflix experience by providing personalized content recommendations using GPT-3.5. Designed for Netflix enthusiasts, it offers effortless content exploration, natural language interactions, and deeper insights into favorite shows and movies, making streaming more engaging and tailored for both new and seasoned users for recomdation..</p>
 
 
 # :notebook_with_decorative_cover: Table of Contents
